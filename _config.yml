@@ -29,7 +29,7 @@ twitter_username: ToshioCP
 github_username:  ToshioCP
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
