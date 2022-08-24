@@ -2,7 +2,7 @@
 layout: post
 title: "New Repository Rake tutorial for beginners"
 date: 2022-8-9 21:59:00 +0900
-categories: "ToshioCP"
+lang: "en"
 ---
 
 A new repository has been created -- Rake tutorial for beginners.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to ToshioCP's Homepage!"
 date:   2022-04-18 17:24:00 +0900
-categories: "ToshioCP"
+lang: "en"
 ---
 
 Welcome to ToshioCP's homepage!
