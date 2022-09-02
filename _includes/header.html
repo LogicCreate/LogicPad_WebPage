@@ -10,7 +10,7 @@
   {%- endif -%}
   <div class="wrapper">
     {%- assign target_pages = site.pages | where: "lang", page.lang -%}
-    {%- assign target_default_pages = site.header_pages | where: "name", "name != index_ja.html" | where: "lang", page.lang -%}
+    {%- assign target_default_pages = site.header_pages | where: "lang", page.lang -%}
     {%- assign target_pages = target_default_pages | default: target_pages -%}
     <a class="site-title" rel="author" href="{{ root_path | relative_url }}">{{ site.title | escape }}</a>
 
