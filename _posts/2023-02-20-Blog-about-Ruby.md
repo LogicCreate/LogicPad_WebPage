@@ -18,4 +18,4 @@ lang: "ja"
 
 カテゴリー検索もできます。
 
-現時点は、[Minimal Mmistakes](https://mmistakes.github.io/minimal-mistakes/)というJekyllのテーマを使って作成されています。
+現時点は、[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)というJekyllのテーマを使って作成されています。
