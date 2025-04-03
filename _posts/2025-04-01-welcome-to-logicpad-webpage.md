@@ -21,7 +21,7 @@ It provides an intuitive interface and drag-and-drop functionality, allowing use
 
 ---
 
-### Screenshot
+## Screenshot
 
 ![img.png](screenshot.png)
 

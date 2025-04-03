@@ -20,7 +20,7 @@ LogicPadは、Windowsオペレーティングシステム上でソフトウェ�
 
 ---
 
-### スクリーンショット
+## スクリーンショット
 
 ![img.png](screenshot.png)
 
