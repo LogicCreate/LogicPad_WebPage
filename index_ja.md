@@ -1,5 +1,5 @@
 ---
-title:  "LogicPad"
+title: "LogicPad"
 layout: home
 lang: ja
 ---

@@ -1,5 +1,5 @@
 ---
-title:  "LogicPad"
+title: "LogicPad"
 layout: home
 lang: en
 ---
@@ -25,7 +25,6 @@ It provides an intuitive interface and drag-and-drop functionality, allowing use
 ---
 
 ## History
-
 
 | Date       | Version | Description                                                                                                                                      |
 |------------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------|
