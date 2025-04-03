@@ -1,6 +1,8 @@
-title: ToshioCP's Homepage
-description: "ToshioCP's Homepage mainly contains computer software."
-github_username:  ToshioCP
+title: LogicPad
+# シンプルなローコードツール「LogicPad」の公式ページです。
+
+description: "LogicPad Official Website. A simple low-code tool for building any type of application."
+github_username:  kenjinote
 
 theme: minima
 plugins:
