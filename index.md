@@ -3,8 +3,6 @@ layout: home
 lang: en
 ---
 
-# LogicPad
-
 ---
 
 ## About
