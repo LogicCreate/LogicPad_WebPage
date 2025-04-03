@@ -25,9 +25,6 @@
       </label>
 
       <div class="trigger">
-        {%- for target_page in target_pages -%}
-          <a class="page-link" href="{{ target_page.url | relative_url }}">{{ target_page.title | escape }}</a>
-        {%- endfor -%}
           <a class="page-link" href="{{ lang_change_path | relative_url }}">{{ lang_change_title | escape }}</a>
       </div>
     </nav>
